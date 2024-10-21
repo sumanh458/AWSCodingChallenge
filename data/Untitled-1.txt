@@ -1,0 +1,1 @@
+users = spark.sql("Select user_id,name,contact,address from users")
