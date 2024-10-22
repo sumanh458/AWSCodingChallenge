@@ -1,6 +1,5 @@
 {
-  "orders": 
-  [
+  "orders": [
     {
       "order_id": "5001",
       "customer_id": "1001",
